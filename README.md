@@ -21,5 +21,5 @@ Projects inspired by real-world analytics scenarios involving data extraction, v
 
 ## Projects
 
-- KPI_Analysis_Query
-- Data_Validation_Query
+- KPI_Analysis_Query.md
+- Data_Validation_Query.md
