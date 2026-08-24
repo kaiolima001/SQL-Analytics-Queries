@@ -1,13 +1,13 @@
 # SQL Analytics Queries
 
-Collection of SQL examples focused on analytics, reporting and data validation.
+Collection of SQL projects focused on data validation, business analytics and KPI reporting.
 
 ## Technologies
 
 - SQL Server
 - BigQuery
 
-## Topics
+## Key Topics
 
 - Data Validation
 - KPI Analysis
@@ -15,6 +15,11 @@ Collection of SQL examples focused on analytics, reporting and data validation.
 - Data Quality
 - Reporting
 
-## Purpose
+## Portfolio Overview
 
-Demonstrate analytical thinking and data querying practices used in Business Intelligence environments.
+Projects inspired by real-world analytics scenarios involving data extraction, validation and business reporting.
+
+## Projects
+
+- KPI_Analysis_Query
+- Data_Validation_Query
